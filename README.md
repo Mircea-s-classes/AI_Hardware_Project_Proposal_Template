@@ -1,6 +1,6 @@
 # AI Hardware Project Template
-ECE 4332 / ECE 6332 — AI Hardware  
-Fall 2025
+ECE 4380 / ECE 6380 — AI Hardware  
+Fall 2026
 
 ## 🧭 Overview
 This repository provides a structured template for your team project in the AI Hardware class.  
@@ -18,13 +18,13 @@ Each team should have **2–4 members (3 preferred)**.
 List all team members in `docs/Project_Proposal.md`.
 
 ## 📋 Required Deliverables
-1. **Project Proposal** — due Nov. 5, 2025, 11:59 PM  
-2. **Midterm Presentation** — Nov. 19,2025, 11:59 PM  
-3. **Final Presentation and Report** — Dec. 17, 11:59 PM
+1. **Project Proposal** — due Nov. 5, 11:59 PM  
+2. **Midterm Presentation** — Nov. 19, 11:59 PM  
+3. **Final Presentation and Report** — Dec. 12, 11:59 PM
 
 ## 🚀 How to Use This Template
 1. Click **“Use this template”** on GitHub.  
-2. Name your repo `ai-hardware-teamXX` (replace XX with your team name or number).  
+2. Name your repo `ai-hardware2026-teamXX` (replace XX with your team name or number).  
 3. Clone it locally:
    ```bash
    git clone https://github.com/YOUR-ORG/ai-hardware-teamXX.git
